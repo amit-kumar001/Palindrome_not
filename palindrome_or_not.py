@@ -1,11 +1,11 @@
 def pal(my):
-    l = len(my)
-    for m in range(l -1,-1,-1):
+    l = len(my)# check length
+    for m in range(l -1,-1,-1): #
         yield my[m]
 
 def input_entries():
     n = input("Enter the value you want to check palindrome or not: ")
-    n = n.casefold()
+    n = n.casefold() #similar to lower() string method
     a=pal(n)
     value_real = n
     value_return = a
