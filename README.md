@@ -4,7 +4,12 @@
   <li> This code is intended to find the palindrome of string. If number is palindrome, it will exit otherwise it will check the condition again for the new input string.</li> 
   <li> This code is created using yield function.</li>
   <li> Program contains user defined function where the execution takes place.</li>
-  <li> <strong>generator object *NAME* at 0x7f8c8370a410</strong> returned from the yield function is iterated to display the result of yield.</li>
+  <li> <strong>generator object *NAME* at 0x7f8c8370a410</strong> returned from the yield function is iterated to display the result of yield.</li> </ol>  
+  Have a look at the below screenshot  
+  
+  ![untitled-1](https://user-images.githubusercontent.com/47202519/52624922-e10abd80-2ed5-11e9-9c6e-aaccf03d0813.jpg)
+  
+  
 
 
 ## User Defined Function  
