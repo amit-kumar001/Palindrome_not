@@ -43,7 +43,7 @@ def input_entries():
    
 ## How to run this file  
 ```
- python playing_with_python.py
- python3 playing_with_python.py
+ python palindrome_or_not.py
+ python3 palindrome_or_not.py
  
 ```
